@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+This is my first repository
+这是我的第一个代码仓库
